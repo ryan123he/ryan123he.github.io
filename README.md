@@ -21,4 +21,5 @@ http://127.0.0.1:4173
 - Confirm email and WeChat are intended to be public.
 - Do not add phone number, school, age, or private identity details.
 - Keep video count small unless compressed for web delivery.
+- Videos are lazy-loaded: MP4 files are requested only after a visitor clicks a video card.
 - Deploy the contents of this `site` directory to GitHub Pages.
